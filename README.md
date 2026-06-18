@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on<br>→ RescueResume – an AI-powered resume builder (Node.js/MongoDB)🤝 I'm looking for help with<br>→ Scaling Node.js backends and integrating LLM APIs into web applications<br>🌱 I'm currently learning<br>→ React, Node.js, AI/LLM integration, and edge AI with ESP32
+🔭 I'm currently working on<br>→ RescueResume – an AI-powered resume builder (Node.js/MongoDB)<br>I'm looking for help with<br>→ Scaling Node.js backends and integrating LLM APIs into web applications<br>🌱 I'm currently learning<br>→ React, Node.js, AI/LLM integration, and edge AI with ESP32
 
 
 ## 🌐 Socials:
